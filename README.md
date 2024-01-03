@@ -23,11 +23,15 @@ This is a ...
 
 ### Node
 
-    $ node --version
-    v0.10.24
+[Node](http://nodejs.org/) & [Yarn](https://yarnpkg.com/) are required for this project.
+You should be able to run the following command after the installation procedure
+below.
 
-    $ npm --version
-    1.3.21
+    $ node --version
+    v20.10.0
+
+    $ yarn --version
+    4.0.2
 
 - Build out the project to the designs provided
 

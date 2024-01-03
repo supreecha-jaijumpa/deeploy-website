@@ -5,7 +5,7 @@ This is a ...
 
 ## Table of contents
 
-- [Overview](#overview)
+- [Requirements](#requirements)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
@@ -19,9 +19,15 @@ This is a ...
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
-## Overview
+## Requirements
 
-### The challenge
+### Node
+
+    $ node --version
+    v0.10.24
+
+    $ npm --version
+    1.3.21
 
 - Build out the project to the designs provided
 

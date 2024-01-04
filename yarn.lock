@@ -1005,6 +1005,7 @@ __metadata:
     eslint: "npm:^8"
     eslint-config-next: "npm:14.0.4"
     eslint-config-prettier: "npm:^9.1.0"
+    husky: "npm:^8.0.3"
     next: "npm:14.0.4"
     postcss: "npm:^8"
     prettier: "npm:^3.1.1"
@@ -1958,6 +1959,15 @@ __metadata:
     agent-base: "npm:^7.0.2"
     debug: "npm:4"
   checksum: 7735eb90073db087e7e79312e3d97c8c04baf7ea7ca7b013382b6a45abbaa61b281041a98f4e13c8c80d88f843785bcc84ba189165b4b4087b1e3496ba656d77
+  languageName: node
+  linkType: hard
+
+"husky@npm:^8.0.3":
+  version: 8.0.3
+  resolution: "husky@npm:8.0.3"
+  bin:
+    husky: lib/bin.js
+  checksum: 6722591771c657b91a1abb082e07f6547eca79144d678e586828ae806499d90dce2a6aee08b66183fd8b085f19d20e0990a2ad396961746b4c8bd5bdb619d668
   languageName: node
   linkType: hard
 
